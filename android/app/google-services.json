@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615993279243",
+    "project_id": "first-e96fa",
+    "storage_bucket": "first-e96fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615993279243:android:aa93db6e1fb71710b6580e",
+        "android_client_info": {
+          "package_name": "com.example.crudfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEAuTZ2ZgHwD2k3hJvzCMh_mMYikDKOrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
